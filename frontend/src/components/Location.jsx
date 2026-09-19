@@ -88,7 +88,7 @@ export default function Location() {
             
             {/* Monospace Eyebrow Badge */}
             <div className="inline-flex items-center gap-2 text-[#e3c68a] text-[11px] sm:text-xs font-mono uppercase tracking-[0.35em] mb-4">
-              <Sparkles className="w-3.5 h-3.5" />
+             
               <span>Yas Saloon • Kanchipuram</span>
             </div>
 
@@ -221,7 +221,7 @@ export default function Location() {
             <div className="absolute -bottom-4 -left-3 sm:left-6 z-30 flex items-center gap-2 bg-[#121212] border border-[#e3c68a]/50 px-3.5 py-1.5 rounded-full shadow-[0_10px_25px_rgba(0,0,0,0.9)]">
               <ShieldCheck className="w-3.5 h-3.5 text-[#e3c68a]" />
               <span className="text-[10px] font-mono uppercase tracking-widest text-neutral-200">
-                100% Sterile Studio
+                Yazhini Saloon
               </span>
             </div>
 

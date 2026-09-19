@@ -48,7 +48,7 @@ const Hero = () => {
         <img 
           src="https://im.whatshot.in/img/2021/Aug/istock-872361244-cropped-1624514729-1626177802-1629879745.jpg" 
           alt="Yazhini Saloon Interior" 
-          className="w-full h-full object-cover object-center md:object-[78%_center] lg:object-[85%_center] brightness-70 md:brightness-100 md:contrast-110"
+          className="w-full h-full object-cover object-center md:object-[78%_center] lg:object-[85%_center] brightness-45 md:brightness-100 md:contrast-110"
         />
       </div>
 
@@ -191,7 +191,7 @@ const Hero = () => {
 
               <div className="relative z-10 mb-7">
                 <span className="text-[10px] font-mono tracking-[0.3em] uppercase text-[#e3c68a] block mb-1">
-                  Appointment Desk
+                  Appointment Form
                 </span>
                 <h3 className="text-3xl font-['Bebas_Neue'] tracking-widest text-white leading-none">
                   LOCK YOUR SLOT

@@ -25,7 +25,7 @@ const Navbar = () => {
         {/* DIRECT CONTACT BUTTON */}
         <a
           href="tel:+919876543210"
-          className="flex items-center space-x-2 bg-[#e3c68a] hover:bg-white text-[#111] px-5 sm:px-6 py-2.5 rounded-full font-bold text-xs sm:text-sm uppercase tracking-wider shadow-lg transition-all duration-300 transform hover:scale-105 active:scale-95"
+          className="flex items-center space-x-2 bg-white hover:bg-white text-[#111] px-5 sm:px-6 py-2.5 rounded-full font-bold text-xs sm:text-sm uppercase tracking-wider shadow-lg transition-all duration-300 transform hover:scale-105 active:scale-95"
         >
           <Phone className="w-4 h-4" />
           <span>Contact</span>
